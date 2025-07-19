@@ -1,5 +1,5 @@
 git init
-git remote add origin https://github.com/YOUR_USERNAME/musicgen-api.git
+git remote add origin https://github.com/Anycodes-hub/musicgen-api.git
 git add .
-git commit -m "Initial commit"
+git commit -m "Initial MusicGen API"
 git push -u origin master
