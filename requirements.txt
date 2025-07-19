@@ -1,8 +1,8 @@
 fastapi
 uvicorn
 audiocraft
-torch==2.5.0
-torchaudio==2.5.0
+torch==2.6.0
+torchaudio==2.6.0
 transformers>=4.31.0
 sentencepiece
 tqdm
