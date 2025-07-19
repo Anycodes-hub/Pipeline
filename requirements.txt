@@ -4,8 +4,3 @@ audiocraft
 torch==2.6.0
 torchaudio==2.6.0
 transformers>=4.31.0
-sentencepiece
-tqdm
-numpy
-scipy
-gradio
